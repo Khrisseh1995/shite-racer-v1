@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "firebaseauth": "shiteracerauth",
+    "default": "shiteracerauth"
+  }
+}
